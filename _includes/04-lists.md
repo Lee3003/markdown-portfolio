@@ -1,5 +1,6 @@
-- This is a list
-- Another sentence
-  - Nested
-  - Also Nested
-- Back to main
+Places where I have lived:
+
+- Latvia, Ventspils
+- The UK
+  - Fort William, Scotland
+  - Manchester, England
