@@ -1,1 +1,1 @@
-[my vk](http://vk.com/e_1337)
+[My LinkedIn Page](https://www.linkedin.com/in/jskorodumova/)
