@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![This is a laptop](https://cdn.mos.cms.futurecdn.net/6t8Zh249QiFmVnkQdCCtHK-1024-80.jpg.webp)
