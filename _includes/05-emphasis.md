@@ -1,3 +1,1 @@
-- *This is italic*
-- **This is bold**
-- This is **bold** and *italic*
+I can become **really** *expressive* sometimes.
